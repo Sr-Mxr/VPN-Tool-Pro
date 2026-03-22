@@ -41,7 +41,7 @@ def ask_index(configs, prompt_text):
 
 
 # =========================
-# 🔷 MENÚ PRINCIPAL
+#  MENÚ PRINCIPAL
 # =========================
 
 def main_menu():
@@ -58,7 +58,7 @@ def main_menu():
 
 
 # =========================
-# 🌐 BROWSE MODE
+#  BROWSE MODE
 # =========================
 
 def browse_banner():
@@ -108,7 +108,7 @@ def browse_mode():
 
 
 # =========================
-# 🕵️ PENTESTER MODE
+#  PENTESTER MODE
 # =========================
 
 def pentester_menu():
@@ -197,7 +197,7 @@ def pentester_mode():
 
 
 # =========================
-# 🚀 ENTRY POINT
+#  ENTRY POINT
 # =========================
 
 def main():
