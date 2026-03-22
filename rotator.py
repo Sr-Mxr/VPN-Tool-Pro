@@ -5,7 +5,7 @@ from utils import Colors
 
 FAILED = {}
 
-BLOCK_TIME = 600  # 10 minutos
+BLOCK_TIME = 600  
 
 
 def is_blocked(config):
@@ -23,15 +23,13 @@ def rotate(configs, interval=60):
         last = None
 
         while True:
-            # filtrar configs bloqueadas
             available = [c for c in configs if not is_blocked(c)]
 
             if not available:
                 print(f"{Colors.RED}[ERROR]{Colors.RESET} No available configs. Waiting...")
                 time.sleep(10)
                 continue
-
-            # evitar repetir el mismo
+                
             choices = [c for c in available if c != last]
             if not choices:
                 choices = available
