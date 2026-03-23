@@ -54,7 +54,7 @@ def main_menu():
 
     print(f"{Colors.CYAN}1.{Colors.RESET} Browse Mode")
     print(f"{Colors.CYAN}2.{Colors.RESET} {Colors.BLUE}Pentester Mode{Colors.RESET}")
-    print(f"{Colors.CYAN}5.{Colors.RESET}{Colors.RED} Exit{Colors.RESET}\n")
+    print(f"{Colors.CYAN}3.{Colors.RESET}{Colors.RED} Exit{Colors.RESET}\n")
 
 
 # =========================
