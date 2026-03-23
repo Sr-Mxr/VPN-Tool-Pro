@@ -17,15 +17,29 @@
 
 ---
 
-## 📸 Demo
+## 📊 Dashboard Preview
 
-![Demo](images/demo.png)
+![Dashboard - Browse Mode](images/img2.png)
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard - Browse Mode](images/img3.png)
+
+---
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard - Browse Mode](images/img4.png)
+
+---
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard - Pentester Mode](images/img5.png)
 
 ---
 
