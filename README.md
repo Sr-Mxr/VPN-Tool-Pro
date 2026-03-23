@@ -4,7 +4,7 @@
 <p align="center">
   <b>Browse Mode • Pentester Mode • Full Control</b>
 </p>
-
+<p align="center">
 # 🛡️ VPN Tool Pro
 
 ![Banner](images/banner.png)
@@ -44,7 +44,7 @@
 
 ![Dashboard - Pentester Mode](images/img5.png)
 
----
+--- </p>
 
 ## 📦 Installation
 
