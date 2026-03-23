@@ -31,6 +31,7 @@
 ---
 <p align="center">
 ## 📊 Dashboard Browse Mode
+</p>
 <p align="center">
 ![Dashboard - Pentester Mode](images/img2.png)
 </p>
@@ -43,8 +44,8 @@
 ---
 <p align="center">
 ![Dashboard - Pentester Mode](images/img5.png)
-
---- </p>
+</p>
+--- 
 
 ## 📦 Installation
 
