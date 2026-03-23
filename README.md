@@ -14,20 +14,20 @@
 ---
 <p align="center">
 ## 🚀 Features
-</p>
+
 - 🌐 **Browse Mode** → stable VPN for daily use / streaming  
 - 🕵️ **Pentester Mode** → IP rotation, kill switch, automation  
 - 🔁 Auto-retry & server failover  
 - 🚫 Blacklist system (avoid failing servers)  
 - 📊 Real-time dashboard (IP, country, status)  
 - 🎨 Colored CLI + hacker-style UI  
-
+</p>
 ---
 <p align="center">
 ## 📊 Dashboard Pentester Mode
-</p>
-![Dashboard - Browse Mode](images/img3.png)
 
+![Dashboard - Browse Mode](images/img3.png)
+</p>
 ---
 <p align="center">
 ## 📊 Dashboard Browse Mode
