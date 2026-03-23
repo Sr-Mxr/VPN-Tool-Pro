@@ -6,9 +6,9 @@
 </p>
 <p align="center">
 # 🛡️ VPN Tool Pro
-</p>
-![Banner](images/banner.png)
 
+![Banner](images/banner.png)
+</p>
 > CLI tool for managing WireGuard VPN connections with dual modes: stable browsing and advanced pentesting.
 
 ---
@@ -31,17 +31,17 @@
 ---
 <p align="center">
 ## 📊 Dashboard Browse Mode
-</p>
+<p align="center">
 ![Dashboard - Pentester Mode](images/img2.png)
-
+</p>
 ---
 ---
-
+<p align="center">
 ![Dashboard - Browse Mode](images/img4.png)
-
+</p>
 ---
 ---
-
+<p align="center">
 ![Dashboard - Pentester Mode](images/img5.png)
 
 --- </p>
