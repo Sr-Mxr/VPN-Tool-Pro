@@ -1,6 +1,9 @@
 <p align="center">
   <img src="images/bannertool.png" width="800">
 </p>
+<p align="center">
+  <b>Browse Mode • Pentester Mode • Full Control</b>
+</p>
 
 # 🛡️ VPN Tool Pro
 
