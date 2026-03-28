@@ -32,6 +32,6 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/youruser/vpn-tool-pro.git
+git clone https://github.com/Sr-Mxr/vpn-tool-pro.git
 cd vpn-tool-pro
 pip install -r requirements.txt
